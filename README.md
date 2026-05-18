@@ -52,6 +52,4 @@
 </table>
 
 ---
-
-
-[linkedin]: https://linkedin.com/in/antonmironov1
+![Metrics](/github-metrics.svg)

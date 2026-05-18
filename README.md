@@ -17,9 +17,6 @@
 - 📍 I’m From Moscow (Russia)
 - 💻 6+ Years Experience in Software Development and Test Automation
 
-### 🤝 Connect with me:
-[<img alt="antonmironov1 | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
 ---
 
 ### 💻 Tech Stack:
